@@ -1,0 +1,14 @@
+D:\Dropbox\AGORA_VAI\elivro\Dominio\bin\Debug\Dominio.dll.config
+D:\Dropbox\AGORA_VAI\elivro\Dominio\bin\Debug\Dominio.dll
+D:\Dropbox\AGORA_VAI\elivro\Dominio\bin\Debug\Dominio.pdb
+D:\Dropbox\AGORA_VAI\elivro\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\Dropbox\AGORA_VAI\elivro\Dominio\obj\Debug\Dominio.dll
+D:\Dropbox\AGORA_VAI\elivro\Dominio\obj\Debug\Dominio.pdb
+D:\Dropbox\AGORA_VAI\elivro\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+D:\Dropbox\ADS\LES\ecommerce_livro\Dominio\bin\Debug\Dominio.dll.config
+D:\Dropbox\ADS\LES\ecommerce_livro\Dominio\bin\Debug\Dominio.dll
+D:\Dropbox\ADS\LES\ecommerce_livro\Dominio\bin\Debug\Dominio.pdb
+D:\Dropbox\ADS\LES\ecommerce_livro\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\Dropbox\ADS\LES\ecommerce_livro\Dominio\obj\Debug\Dominio.dll
+D:\Dropbox\ADS\LES\ecommerce_livro\Dominio\obj\Debug\Dominio.pdb
+D:\Dropbox\ADS\LES\ecommerce_livro\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
